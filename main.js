@@ -13,4 +13,20 @@ let second_obj={
     passion:'be a human'
 }
 
+<<<<<<< HEAD
 let greet='hello world'
+=======
+let third_obj={
+    name:'Shojib Mahmud',
+    email:'shojib.m@gmail.com',
+    age:27,
+    hobby:'pet a bird'
+}
+
+let bio={
+    name:'Kamal',
+    email:'kamal@gmail.com',
+    age:26,
+    skill:['no','one','two']
+}
+>>>>>>> first-branch
