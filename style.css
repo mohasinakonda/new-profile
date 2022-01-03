@@ -1,0 +1,77 @@
+.one{
+    float: right;
+    margin-top: -255px;
+}
+.two{
+    margin-top: 300px;
+}
+.one::after{
+    content: '';
+    clear: both;
+}
+
+.test{
+    background: url(bg_image.jpeg);
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+
+background-clip:padding-box;
+
+    border: 2px solid ;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin: 30px;
+    box-sizing: padding-box;
+    /* display: flex; */
+    color: white;
+    font-size: 24px;
+
+}
+.test p{
+    /* margin: 30px;
+    padding: 30px; */
+}
+.new{
+    display: flex;
+    flex-direction: column;
+    background-color: turquoise;
+    /* margin-top:100px ; */
+    border: 1px solid;
+    padding: 1px;
+}
+.root{
+    /* border: 1px solid; */
+    /* padding: 1px; */
+    margin-top:10px ;
+}
+.collapse{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: 1px solid;
+    /* padding: 0.05px; */
+}
+.collapse--2{
+    margin-top: 40px;
+    border: 2px solid yellow;
+    padding: 1px;
+    /* display: inline; */
+}
+.collapse--2 {
+    display: inline-block;
+    background-color: black;
+    color: white;
+}
+.hero{
+    box-sizing: border-box;
+    background-color: yellowgreen;
+    display: inline-block;
+    /* width: 350px; */
+    height: 100px;
+    /* padding: 1px; */
+     text-align: center;
+    /* padding-top: 10%;  */
+    padding-top: 20px;
+
+}
