@@ -22,11 +22,6 @@ let third_obj={
 let bio={
     email:'kamal@gmail.com',
     age:26,
-<<<<<<< HEAD
-    skill:['no','one','two']
-}
-=======
     skill:['no','one','two'],
     hobby:'student'
 }
->>>>>>> first-branch
