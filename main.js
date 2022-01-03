@@ -12,3 +12,10 @@ let second_obj={
     age:26,
     passion:'be a human'
 }
+
+let third_obj={
+    name:'Shojib Mahmud',
+    email:'shojib.m@gmail.com',
+    age:27,
+    hobby:'pet a bird'
+}
