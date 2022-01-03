@@ -12,3 +12,5 @@ let second_obj={
     age:26,
     passion:'be a human'
 }
+
+let greet='hello world'
