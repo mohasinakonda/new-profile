@@ -25,3 +25,9 @@ let bio={
     skill:['no','one','two'],
     hobby:'student'
 }
+
+let another_person={
+    name:'Shahin Alom',
+    email:'shahinalom@gmail.com',
+    age:23
+}
