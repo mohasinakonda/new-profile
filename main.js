@@ -20,7 +20,6 @@ let third_obj={
 }
 
 let bio={
-    name:'Kamal',
     email:'kamal@gmail.com',
     age:26,
     skill:['no','one','two']
