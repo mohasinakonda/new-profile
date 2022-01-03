@@ -19,3 +19,10 @@ let third_obj={
     age:27,
     hobby:'pet a bird'
 }
+
+let bio={
+    name:'Kamal',
+    email:'kamal@gmail.com',
+    age:26,
+    skill:['no','one','two']
+}
