@@ -14,3 +14,9 @@ let second_obj={
 }
 
 let greet='hello world'
+
+let person={
+    name:'Kashem',
+    addr:'Sripur,Gazipur',
+    email:'kashem@gmail.com'
+}
